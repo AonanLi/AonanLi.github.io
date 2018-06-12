@@ -1,0 +1,14 @@
+---
+title:  "Postman: A Social Networking Web App"
+subtitle: "AngularJS, Node.js, MongoDB, Rest API, Google App Engine, 3rd Party Authentication"
+author: "Aonan Li"
+avatar: "img/authors/aonan.png"
+image: "img/20160405.jpg"
+date:   2016-04-05 12:12:12
+---
+
+### App Link
+<a href="https://postman-930.appspot.com/"><i class="fa fa-link fa-3x"></i></a>
+
+### Introduction
+This is a social networking web app demo I made using AngularJS, Node.JS and MongoDB, which can create and track posts for users on selected social media sites like Facebook, Twitter and Tumblr with one click. After logging this app with your Gmail account, you can choose which social media websites you want to connect with, and when you post message with this app, the message will be posted on selected social media account at the same time. I just deployed this app using Google App Engine recently, and you can test it at https://postman-930.appspot.com/. It used an online MongoDB mlab.

@@ -1,0 +1,16 @@
+---
+title:  "A Little Bit About Me"
+subtitle: ""
+author: "Aonan Li"
+avatar: "img/authors/aonan.png"
+image: "img/resume.jpg"
+date:   2018-05-12 12:12:12
+---
+
+### Resume
+<a href="https://drive.google.com/file/d/1FKu6Hpsr1fHke_XKJw7Qto61Lje-kFmF/preview"><i class="fa fa-file-pdf-o fa-3x"></i></a>
+
+### About Me
+Hi. I'm Aonan, an enthusiastic Front-End Developer at Tetrad Computer Applications, currently living in Vancouver, BC. I buid web applications and mobile app with React.js, C#, and React Native. Before I moved to Vancouver, I completed a Master of Computer Engineering program from Western University, London Ontario.
+
+In my free time, I like to play guitar especially in fingerstyle. Check out some of the other tiles to learn a little more about me!
